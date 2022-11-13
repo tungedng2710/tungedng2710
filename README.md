@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/tungedng2710/) | [Twitter](twitter.com/tungedng2710)
 <!--
 **tungedng2710/tungedng2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
