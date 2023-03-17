@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Machine Learning
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tungedng2710) | [Twitter](https://twitter.com/tungedng2710)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tungedng2710)
 - 🌱 Personal blog (Vietnamese): [Tung Nguyen on Viblo](https://viblo.asia/u/QBee)
 - 😄 Pronouns: Just call me Edward (/ˈedwəd/)
 <!--
