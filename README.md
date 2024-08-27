@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Artifical Intelligence
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tungedng2710)
 - 🌱 Personal blog (Vietnamese): [Tung Nguyen on Viblo](https://viblo.asia/u/QBee)
 - 😄 Pronouns: Just call me Edward (/ˈedwəd/)
