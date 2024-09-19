@@ -1,4 +1,5 @@
-### Welcome to my land 🤗
+### Welcome to my land 🤗 
+![](https://komarev.com/ghpvc/?username=tungedng2710)
 
 - 🔭 I’m currently working on Artifical Intelligence
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
