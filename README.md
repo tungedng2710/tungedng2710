@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Artifical Intelligence
 - 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
-- 🌱 Personal blog: [My Viblo](https://viblo.asia/u/QBee) | [My Page](https://tungedng2710.github.io/)
+- 🌱 Personal blog: [My Viblo](https://viblo.asia/u/QBee) | [My Page](https://tungedng2710.github.io/blog)
 - 📚 Research interests: Computer Vision, Generative AI
 
 <img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=tungedng2710&count_private=true&theme=ambient_gradient&show_icons=true&hide_border=true">
