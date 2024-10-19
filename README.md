@@ -1,7 +1,7 @@
 ### Welcome to my land 🤗 
 
 - 🔭 I’m currently working on Artifical Intelligence
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tungedng2710/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/tungedng2710/)
 - 🌱 Personal blog: [My Viblo](https://viblo.asia/u/QBee) | [My Page](https://tungedng2710.github.io/blog)
 - 📚 Research interests: Computer Vision, Generative AI
 
