@@ -11,3 +11,8 @@ Hi there! I’m **Tung**, a developer and researcher fascinated by how machines 
 <p align="left">
   <img src="https://metrics.lecoq.io/tungedng2710?template=classic&base.activity=0&base.community=0&base.repositories=0&config.timezone=Asia%2FBangkok" alt="Metrics" />
 </p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=tungedng2710&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
