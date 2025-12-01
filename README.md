@@ -5,7 +5,7 @@ Hi there! I’m **Tung**, a developer and researcher fascinated by how machines 
 - 🔭 **Currently working on:** Artificial Intelligence projects  
 - 🧠 **Research interests:** Computer Vision & Generative AI  
 - 🌱 **Learning:** Better ways to bridge deep learning theory with practical applications  
-- 📝 **Writing:** [My Viblo Blog](https://viblo.asia/u/QBee) · [My Personal Page](https://tungedng2710.github.io/blog)  
+- 📝 📝 **Writing:**  [![Tonverse](https://img.shields.io/badge/Tonverse-222222?style=flat&logoColor=ffffff)](https://tungedng2710.github.io/blog)
 - 📫 **Reach me on LinkedIn:** [![Tung Nguyen](https://img.shields.io/badge/Tung%20Nguyen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
 
 
