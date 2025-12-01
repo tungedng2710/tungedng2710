@@ -9,7 +9,5 @@ Hi there! I’m **Tung**, a developer and researcher fascinated by how machines 
 - 📫 **Reach me on LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Tung%20Nguyen-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
 
 <p align="left">
-  <img height="180em" src="https://streak-stats.demolab.com?user=tungedng2710&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungedng2710&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=tungedng2710&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
