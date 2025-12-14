@@ -9,4 +9,4 @@ Hi there! I’m **Tung**, a developer and researcher fascinated by how machines 
 - 📫 **Reach me on LinkedIn:** [![Tung Nguyen](https://img.shields.io/badge/Tung%20Nguyen-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungedng2710)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tungedng2710&show_icons=true&theme=tokyonight)
