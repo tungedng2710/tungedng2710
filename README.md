@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungedng2710)
 [![Blog](https://img.shields.io/badge/Blog-Tonverse-222222?style=for-the-badge&logoColor=ffffff)](https://tungedng2710.github.io/blog)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/tungedng2710)
 [![GitHub followers](https://img.shields.io/github/followers/tungedng2710?style=for-the-badge&logo=github)](https://github.com/tungedng2710)
 
 </div>
@@ -60,6 +61,7 @@ I'm always interested in connecting with fellow researchers, developers, and AI 
 **Get in touch:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/tungedng2710)
 - 📝 [Personal Blog - Tonverse](https://tungedng2710.github.io/blog)
+- 🤗 [HuggingFace](https://huggingface.co/tungedng2710)
 
 ---
 
