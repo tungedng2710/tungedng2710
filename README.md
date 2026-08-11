@@ -42,9 +42,10 @@ I'm a passionate developer and researcher specializing in **Artificial Intellige
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
-| --- | --- |
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tungedng2710&theme=tokyonight)
+
 | ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tungedng2710&theme=tokyonight) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tungedng2710&theme=tokyonight) |
+| --- | --- |
 
 </div>
 
