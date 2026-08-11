@@ -17,11 +17,11 @@
 
 I'm a passionate developer and researcher specializing in **Artificial Intelligence**, with a focus on how machines learn to perceive and generate content. I bridge the gap between cutting-edge deep learning theory and practical, real-world applications.
 
-- 🔭 **Current Focus:** Artificial Intelligence research and development
-- 🧠 **Research Interests:** Computer Vision, Generative AI, Deep Learning
-- 🌱 **Continuous Learning:** Exploring advanced techniques in neural architectures and practical AI deployment
-- 📝 **Content Creator:** Sharing insights and knowledge on [Tonverse](https://tungedng2710.github.io/blog)
-- 💼 **Open to:** Research collaborations and innovative AI projects
+* 🔭 **Current Focus:** Artificial Intelligence research and development
+* 🧠 **Research Interests:** Document AI, Computer Vision, Generative AI, Deep Learning, Data Science
+* 🌱 **Continuous Learning:** Exploring advanced techniques in neural architectures and practical AI deployment
+* 📝 **Content Creator:** Sharing insights and knowledge on [Tonverse](https://tungedng2710.github.io/blog)
+* 💼 **Open to:** Research collaborations and innovative AI projects
 
 ---
 
