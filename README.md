@@ -27,14 +27,21 @@ I'm a passionate developer and researcher specializing in **Artificial Intellige
 
 ## 🛠️ Technical Skills
 
-**Languages & Frameworks:**
-- Python, PyTorch, TensorFlow, OpenCV
-- Deep Learning, Machine Learning, Computer Vision
+**Technical Skills:**
+* **Programming:** Python, SQL, Bash
+* **AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers, OpenCV
+* **Computer Vision & Document AI:** Object Detection, OCR, Table Recognition, Image Processing, Vision-Language Models
+* **Model Training:** Fine-tuning, Distributed Training, PEFT/LoRA, RL-based Optimization, Synthetic Data Generation
+* **MLOps & Deployment:** Docker, REST APIs, Model Serving, Experiment Tracking
+* **Data & Analytics:** Pandas, NumPy, BigQuery
+
 
 **Areas of Expertise:**
-- 🖼️ Computer Vision: Object Detection, Image Segmentation, Image Classification
-- 🎨 Generative AI: GANs, Diffusion Models, Image Synthesis
-- 🔬 Research: Model Architecture Design, Performance Optimization
+* 📄 **Document AI & VLMs:** Document Understanding, OCR, Table Recognition, Vision-Language Models
+* 👁️ **Computer Vision:** Object Detection, Image Segmentation, Image Classification, Visual Representation Learning
+* 🤖 **Generative & Multimodal AI:** Multimodal LLMs, VLM Training, Fine-tuning, Synthetic Data Generation
+* 🔬 **AI Research & Engineering:** Model Architecture, Training Optimization, Evaluation, Model Deployment
+
 
 ---
 
