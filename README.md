@@ -28,7 +28,7 @@ I'm a passionate developer and researcher specializing in **Artificial Intellige
 ## 🛠️ Technical Skills
 
 **Technical Skills:**
-* **Programming:** Python, SQL, Bash
+* **Programming:** Python, C#, C++, SQL, MATLAB
 * **AI/ML Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers, OpenCV
 * **Computer Vision & Document AI:** Object Detection, OCR, Table Recognition, Image Processing, Vision-Language Models
 * **Model Training:** Fine-tuning, Distributed Training, PEFT/LoRA, RL-based Optimization, Synthetic Data Generation
